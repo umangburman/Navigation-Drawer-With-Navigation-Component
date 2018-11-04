@@ -267,7 +267,7 @@ implementation "android.arch.navigation:navigation-ui:$nav_version"
 </androidx.drawerlayout.widget.DrawerLayout>
 ```
 
-### **Step8:** MainActivity.java:
+### **Step9:** MainActivity.java:
 
 ```Java
 import android.os.Bundle;
