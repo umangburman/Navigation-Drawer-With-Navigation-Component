@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/first"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="Android" />
+
+        <item
+            android:id="@+id/second"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="Dollar" />
+
+        <item
+            android:id="@+id/third"
+            android:icon="@drawable/ic_save_black_24dp"
+            android:title="Save" />
+
+    </group>
+
+</menu>
