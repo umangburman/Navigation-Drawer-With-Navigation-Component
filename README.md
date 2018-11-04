@@ -407,6 +407,6 @@ For any clarifications please refer to the repository.
 
 ## **Conclusion**
 
-**Answer:** The goal of any Navigation Component is to acheive the best possible solution and save development time by eliminating **Fragment Manager** and **Fragment Transaction** class. 
+The goal of any Navigation Component is to acheive the best possible solution and save development time by eliminating **Fragment Manager** and **Fragment Transaction** class. 
 
 I hope it will help you too.
