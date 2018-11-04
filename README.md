@@ -18,11 +18,16 @@ So Let's Get Started:
 
 ## **Principles of Navigation**
 
-**Answer:** The goal of any in-app navigation should be to provide a consistent and predictable experience to users. To meet this goal, the Navigation Architecture Component helps you build an app that adheres to each of the navigation principles below.
+**Answer:** The goal of any in-app navigation should be to provide a consistent and predictable experience to users. To meet this goal, the Navigation Architecture Component helps you build an app that adheres to each of the navigation principles below:
+
 **a.** The app should have a fixed starting destination.
+
 **b.** A stack is used to represent the "navigation state" of an app.
+
 **c.** The Up button never exits your app.
+
 **d.** Up and Back are equivalent within your app's task
+
 **e.** Deep linking to a destination or navigating to the same destination should yield the same stack.
 
 
